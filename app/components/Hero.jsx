@@ -20,10 +20,10 @@ export function Hero() {
                      >
                         <Link to="/" className="-m-1.5 p-1.5">
                            <span className="sr-only">JesseBubble</span>
-                           <Logo className="h-16 w-auto md:h-20 lg:h-24" />
+                           <Logo className="h-16 w-auto" />
                         </Link>
 
-                        <div className="ml-12 flex gap-x-14">
+                        <div className="ml-12 flex gap-x-10 md:gap-x-14">
                            {navigation.map((item) => (
                               <Link
                                  key={item.name}
@@ -65,18 +65,18 @@ export function Hero() {
                               experiences | <strong>Founder of DEVSA</strong>
                            </p>
                            <div className="mt-10 flex items-center gap-x-6">
-                              <a
-                                 href="https://www.instagram.com/devsatx"
+                              <Link
+                                 to="https://www.instagram.com/devsatx"
                                  className="rounded-md bg-neutral-950 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-neutral-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-neutral-600"
                               >
                                  Follow DEVSA
-                              </a>
-                              <a
-                                 href="https://devsanantonio.com/"
+                              </Link>
+                              <Link
+                                 to="https://devsanantonio.com/"
                                  className="text-sm font-semibold leading-6 text-neutral-950"
                               >
                                  Learn more <span aria-hidden="true">→</span>
-                              </a>
+                              </Link>
                            </div>
                         </div>
                      </div>

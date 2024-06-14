@@ -1,7 +1,7 @@
 # Inside the Bubble
 
-Focused on web standards and modern user experiences
+Hey, I'm Jesse! A San Antonio-based developer & community champion. I translate my passion for web development and modern UX practices into impactful user experiences | <strong>Founder of DEVSA</strong>
 
-Based in San Antonio, I am a web developer, Adobe designer, and community builder. My focus is on web standards and modern user experiences. I specialize in creating high-performance, user-friendly, and accessible online experiences
-
-<img src="https://res.cloudinary.com/jessebubble/image/upload/v1708019748/jessebubble_sl7vsg.png" alt="jessebubble logo" />
+<a href="https://devsanantonio.com/">
+    <img src="https://res.cloudinary.com/jessebubble/image/upload/v1714600496/devsa-bw-logo_cmhpef.png" alt="devsa logo"/>
+</a>
